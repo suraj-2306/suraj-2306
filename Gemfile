@@ -25,5 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jekyll-include-cache'
-  gem 'faraday-retry'
+  # gem 'faraday-retry'
 end
