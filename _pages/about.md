@@ -14,7 +14,7 @@ I have also worked on approximate computing and verification projects at my home
 
 Apart from academics, I play the violin in the Carnatic style and have performed occasionally. I also enjoy traveling. During my time in Germany, I traveled to over ten countries, and it has been a great time. Badminton and Ultimate Frisbee are my go-to sports. I can also say that running is also slowly creeping into that list :)  
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsuraj-2306.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=tencentqq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- In my previous projects I worked on approximate computing. I, along with a fellow student, had proposed a novel method to reduce the number of accumulation stages in the booth multipler algorithm. The approximation stratergy was based on probabilistic analysis of partial product generation methods. -->
 
