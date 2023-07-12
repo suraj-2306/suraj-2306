@@ -12,7 +12,8 @@ Welcome to my website! My name is Suraj, and I'm an incoming graduate student in
 My academic interests include computer architecture and hardware accelerators. Previously, I interned at the Chair of Processors Design, CFAED, TU Dresden, for over a year. While there, I focused on improving mapping algorithms for And-Inverter-Cones-based FPGA architectures and building RFET-based FPGA architectures to tackle the delay discrepancy issue prevalent in CMOS-based Basic-And-Element in FPGAs.
 I have also worked on approximate computing and verification projects at my home university, BITS Pilani.
 
-Apart from academics, I play the violin in the Carnatic style and also have performed on a few occasions. I also enjoy traveling. During my time in Germany, I traveled to over ten countries and can say that it has been a great time. Badminton and Ultimate Frisbee are my go-to sports. I can also say that running is also slowly creeping into that list :)  
+Apart from academics, I play the violin in the Carnatic style and have performed occasionally. I also enjoy traveling. During my time in Germany, I traveled to over ten countries, and it has been a great time. Badminton and Ultimate Frisbee are my go-to sports. I can also say that running is also slowly creeping into that list :)  
+
 
 
 <!-- In my previous projects I worked on approximate computing. I, along with a fellow student, had proposed a novel method to reduce the number of accumulation stages in the booth multipler algorithm. The approximation stratergy was based on probabilistic analysis of partial product generation methods. -->
